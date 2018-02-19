@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="chapter">
+        <head>The Library in the Home</head>
+
+        <pb n="121"/>
+
+        <p>
+          <soCalled>"Little and good"</soCalled> is better than big and
+          useless. <name type="person">Nimble Jack</name> was too much for the
+          giant <name>Blunderbore</name>. The ants do more than the tortoises.
+          <name>Old Parr</name>, who died of too much cakes and ale at <name
+            type="person">Charles the Second</name>'s court, was a mere boy when
+          he died because, in a century and a half, he had not learned as much,
+          or done as much, or tried to do as much, as many a village lad who
+          marvelled at him and why he went on living when all other folks died
+          decently.
+        </p>
+
+        <p>
+          <name type="person">Plato</name> taught men centuries ago that it is
+          far better to learn a little well than a great deal confusedly.
+          Smattering is bad both in life and reading. Many a centenarian has only
+          smattered through life,and does not know much about it when his book
+          of life is shut forever. The same is true of indiscriminate and
+          desultory readers. They remind one of those who have no ear for music,
+          but think it must be fine in proportion to the loudness of the noise it
+          makes.The still small voice is inaudible to them; they want thunder
+          from plenty of big drums. Some people's taste in books is like that of
+          the <name type="place">New York</name> <hi rend="italic"><foreign
+              xml:lang="fr">gamins</foreign></hi> in plays; they must have
+          plenty of blood for their money, and the play to suit them must be <q
+            type="written">" full of sound and fury, signifying
+            nothing."</q>
+        </p>
+
+        <p>
+          There are certain marks and signs by which one may know the mental
+          habits of others, just as a man's good breeding or the reverse may be
+          manifested in little things. Good old <name type="person">Launcelot
+            Andrews</name>, <name type="title">Bishop of Winchester</name>, in
+          the reign of <name type="person">Queen Elizabeth</name>, used to be
+        </p>
+        
+        <pb n="122"/>
+
+        <p>
+          very much annoyed by idle visitors who disturbed him while he
+          wasstudying in his library of a morning. <q type="spoken"
+            who="Launcelot Andrews"> Methink,"</q> said he, <q type="spoken">
+          "that they be no true scholars who call upon man before noon."</q> In
+          the same way, we may set down a few of the tokens by which the
+          sham thinker and shallow reader may be known.
+        </p>
+ 
+        <p>
+          There are persons-their name is legion-who borrow books as they do
+          umbrellas, without the remotest intention of ever returning them. This
+          is bad enough, but it is almost as bad to deface, <q
+            type="term">"dog'sear,"</q> or tear a book before returning it. Some
+          valuable books when they come back to their too kindly owner present
+          the appearance of having been used as a portable dinner-table, the
+          once unsullied pages wearing the aspect of a greasy table-cloth. This
+          is vulgar and indecent, but even worse than this is it to find one's
+          book desecrated by the idiotic remarks and egotistic emendations of
+          the conceited coxcomb, or, let us charitably hope, silly lunatic, to
+          whom in a moment of amiable weakness we lent the cherished volume
+          which had solaced many a lonely and enlivened many a leisure hour. The
+          shock is almost as great as if we saw again the face of a dear friend
+          besmeared with mud by some miserable urchin of the gutter.Nothing has
+          ever made a rational being regret his ability to read so much as the
+          perusal of these inane, asinine comments and presumed improvements on
+          some favorite author, written on the margin.Show us the girl who
+          cannot admire a sentence or a sentiment without scrawling <q
+            type="written">" very true "</q> or <q type="written"> how beautiful
+            "</q> beside it, and we will show you a girl whom the sensible young
+          men of her neighborhood will do well to avoid. No rational man would
+          make love or offer marriage to one of these feminine annotators. She
+          would write her impressions on his shirt front and make remarks upon
+          his cuffs. The note-taker, the annotator, the commentator, the critic
+          are of course inevitable everywhere, and are well enough in their
+          place.
+          <q type="written" rend="inline">"A chiel's amang ye takin'
+            notes,And, faith, he'll prent it;"</q>
+          but that will be in his own book; he will not pencil it in ours.
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
