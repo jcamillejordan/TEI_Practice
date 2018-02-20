@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title/>
+      </titleStmt>
+      <publicationStmt>
+        <publisher/>
+      </publicationStmt>
+      <sourceDesc>
+        <p/>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p xml:lang="en" n="9">
+        Then the king begins to work his jaw again, and says how him and his
+        nieces would be glad if a few of the main principal friends of the
+        family would take supper here with them this evening, and help set up
+        with the ashes of the diseased; and says if his poor brother laying
+        yonder could speak he knows who he would name, for they was names that
+        was very dear to him, and mentioned often in his letters; and so he will
+        name the same, to wit, as follows, vizz.:-
+        <name type="person">
+          <choice>
+            <abbr>Rev.</abbr>
+            <expan>Reverend</expan>
+          </choice>
+          <choice>
+            <abbr>Mr.</abbr>
+            <expan>Mister</expan>
+          </choice>
+          Hobson
+        </name>, and
+        <name type="person">
+          Deacon Lot Hovey
+        </name>, and
+        <name type="person">
+          <choice>
+            <abbr>Mr.</abbr>
+            <expan>Mister</expan>
+          </choice>
+          Ben Rucker
+        </name>, and
+        <name type="person">
+          Abner Shackleford
+        </name>, and
+        <name type="person">
+          Levi Bell
+        </name>, and
+        <name type="person">        
+          <choice>
+            <abbr>Dr.</abbr>
+            <expan>Doctor</expan>
+          </choice>
+          Robinson
+        </name>, and their wives, and the
+        <name type="person">        
+          widow Bartley
+        </name>.
+	      <note n="1" place="foot" type="bibl">
+	        <bibl>
+            <author>Twain, Mark</author>
+            ,
+            <title>Huckleberry Finn</title>
+            <pubPlace>London</pubPlace>
+            :
+            <publisher>John Murray</publisher>
+            ,
+            <date when="1859">1859</date>
+            .
+          </bibl>
+          , Part 5, Chapter XXV. Text freely available on Gutenberg Project at
+          <ref target="http://upload.wikimedia.org/wikipedia/commons/c/cd/Origin_of_Species_title_page.jpg">http://www.gutenberg.org/files/76/76-h/p5.htm#c22</ref>
+          .
+        </note>
+      </p>
+    </body>   
+  </text>
+</TEI>
